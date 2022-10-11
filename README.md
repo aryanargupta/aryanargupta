@@ -20,13 +20,10 @@
 
 <div id="hi" align="center">                                                                                                 
   <h1>
-    hey there
+    Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    My name is Aryan Amit Gupta
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
@@ -44,16 +41,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+
 
 ### :man_technologist: About Me :
 
 I am an Open Source Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :man_student: I’m currently a B.Tech CSE student at IIIT Vadodara.
 - <img src="https://media.giphy.com/media/eLdb3yQmrpHoRmqCWR/giphy.gif" width="30"> I'm also a Microsoft Learn Student Ambassador.
-- 💻 Exploring Machine Learning
+- 💻 Exploring Machine Learning.
 - 💙 In my free time, I love to sing, play piano and guitar, play chess and table tennis, solve cubes and learn new skills.
-- 🏹 My aim is to foster the local community around me, learn new skills and then pass them on to the community, ultimately contributing towards the global cause of being a force for good
+- 🏹 My aim is to foster the local community around me, learn new skills and then pass them on to the community, ultimately contributing towards the global cause of being a force for good.
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-334650227/)
 
 
