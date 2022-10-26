@@ -74,6 +74,8 @@ I am an Open Source Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanargupta&theme=dark&background=000000)](https://git.io/streak-stats)
-
+![Aryan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanargupta&show_icons=true&theme=dark) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanargupta&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanargupta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/aryanargupta/aryanargupta/blob/output/github-contribution-grid-snake.svg)
