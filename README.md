@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 I am an Open Source Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :man_student: I’m currently a B.Tech CSE student at IIIT Vadodara.
 - <img src="https://media.giphy.com/media/eLdb3yQmrpHoRmqCWR/giphy.gif" width="30"> I'm also a Microsoft Learn Student Ambassador.
-- <img src="https://media.giphy.com/media/TK4yMeRswlKWA/giphy.gif" width="30"> Moreover, I am also the Open Source Volunteer at GDSC IIIT Vadodara.
-- 💻 Exploring Machine Learning.
+- <img src="https://media.giphy.com/media/TK4yMeRswlKWA/giphy.gif" width="30"> Moreover, I am also the present GDSC Lead at IIIT Vadodara and had served as the Open Source Volunteer for the previous term.
+- 💻 Exploring ML/DL/AI and Blockchain.
 - 💙 In my free time, I love to sing, play piano and guitar, play chess and table tennis, solve cubes and learn new skills.
 - 🏹 My aim is to foster the local community around me, learn new skills and then pass them on to the community, ultimately contributing towards the global cause of being a force for good.
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aryan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-334650227/)
